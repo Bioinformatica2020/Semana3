@@ -15,5 +15,5 @@ https://raw.githubusercontent.com/Bioinformatica2020/tareas/master/A_fumigatus_p
 
 #
 
-[Binder](https://mybinder.org/v2/gh/Bioinformatica2020/Semana3/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatica2020/Semana3/master)
 
