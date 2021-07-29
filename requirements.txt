@@ -9,3 +9,4 @@ networkx==2.2
 bioservices==1.6.0
 xlsxwriter==1.2.7
 requests==2.23.0
+biopython==1.77
