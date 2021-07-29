@@ -1,0 +1,75 @@
+Category	Dbs
+Proteins	Protein Sequences
+Proteins	Protein Domains and Families
+Proteins	Protein Structures
+Proteins	Protein Modifications
+Proteins	Protein Interactions
+Proteins	Protein Localization
+Proteins	Protein tools
+Nucleic Acids	Genes
+Nucleic Acids	RNA-Specific Sequences
+Nucleic Acids	Software/Web Servers
+Nucleic Acids	Genomes
+Nucleic Acids	Other Nucleotide Sequence Databases
+Nucleic Acids	Databases/Resources
+Protein Sequences	Entrez Protein (AKA GenPept)
+Protein Sequences	UniProtKB
+Protein Sequences	neXtProt
+Protein Sequences	Protein Information Resources (PIR)
+Protein Sequences	Patent Protein Sequences (EMBL-EBI)
+Protein Domains and Families	CentrosomeDB
+Protein Domains and Families	Conserved Domains Database (CDD)
+Protein Domains and Families	Entrez Protein Clusters
+Protein Domains and Families	MegaMotifBase
+Protein Domains and Families	MitoRes
+Protein Domains and Families	NCBI COGs: Clusters of Orthologous Groups
+Protein Domains and Families	NPD: Nuclear Protein Database
+Protein Domains and Families	Pfam
+Protein Domains and Families	PROSITE
+Protein Domains and Families	SMART: Simple Modular Architecture Research Tool
+Protein Domains and Families	TOPdb: Topology Databank of Transmembrane Proteins
+Protein Structures	Protein Data Bank
+Protein Structures	Molecular Modeling Database (MMDB)
+Protein Structures	PPT-DB: Protein Property Prediction and Testing Database
+Protein Structures	TOPdb: Topology Databank of Transmembrane Proteins
+Protein Structures	Phospho3D
+Protein Structures	Proteopedia
+Protein Structures	WebCSD
+Protein Modifications	dbPTM
+Protein Modifications	PHOSIDA: Postranslational Modification Database
+Protein Modifications	PhosphoSitePlus
+Protein Modifications	TopFIND
+Protein Interactions	BindingDB
+Protein Interactions	ClusPro
+Protein Interactions	String
+Protein Localization	LocDB: Protein Localization Database for Human and Arabidopsis
+Protein Localization	PSORT.org
+Protein tools	ELM: Eukaryotic Linear Motif
+Protein tools	Genome Workbench (NCBI)
+Protein tools	HRaP Service
+Protein tools	InterPro
+Protein tools	MnM 3.0 - Minimotif Miner
+Protein tools	Proteome Analyst
+Protein tools	ProTeus (Protein Terminus)
+Genes	Entrez Gene
+Genes	Online Mendelian Inheritance in Man (OMIM)
+Genes	Human Gene Nomenclature Committee (HUGO HGNC)
+Genes	GeneCards
+Genes	Gene Ontology Consortium
+RNA-Specific Sequences	BSRD: A Repository for Bacterial Small Regulatory RNA
+RNA-Specific Sequences	RNAcentral
+Software/Web Servers	Genome Workbench (NCBI)
+Genomes	Assembly (NCBI)
+Genomes	Ensembl Genome Browser
+Genomes	UCSC Genome Browser
+Genomes	GOLD- Genomes Online Database
+Genomes	1000 Genomes Browser
+Genomes	Genome Reference Consortium
+Genomes	DAVID - Database for Annotation, Visualization and Integrated Discovery
+Other Nucleotide Sequence Databases	Patent Nucleotide Sequences (EMBL-EBI)
+Other Nucleotide Sequence Databases	The Sequence Read Archive
+Other Nucleotide Sequence Databases	GenAtlas
+Databases/Resources	KEGG: Kyoto Encyclopedia of Genes and Genomes
+Databases/Resources	NCBI Biosystems Database
+Databases/Resources	Reactome
+Databases/Resources	WikiPathways
