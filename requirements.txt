@@ -1,0 +1,11 @@
+numpy==1.18.5
+pandas==1.0.4
+matplotlib==3.0.3
+scipy==1.4.1
+openpyxl==3.0.3
+colormap==1.0.2
+easydev==0.9.38
+networkx==2.2
+bioservices==1.6.0
+xlsxwriter==1.2.7
+requests==2.23.0
